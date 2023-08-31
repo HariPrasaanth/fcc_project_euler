@@ -1,1 +1,1 @@
-# fcc_project_euler
+# fcc_solutions
